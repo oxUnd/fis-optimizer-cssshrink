@@ -1,0 +1,30 @@
+{
+  "name": "fis-optimizer-cssshrink",
+  "version": "0.0.1",
+  "description": "CSS minifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiangshouding/fis-optimizer-cssshrink.git"
+  },
+  "keywords": [
+    "fis",
+    "fis-optimizer",
+    "fis-plus",
+    "yog",
+    "gois",
+    "jello"
+  ],
+  "author": "fansekey",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/xiangshouding/fis-optimizer-cssshrink/issues"
+  },
+  "homepage": "https://github.com/xiangshouding/fis-optimizer-cssshrink",
+  "dependencies": {
+    "cssshrink": "0.0.3"
+  }
+}
