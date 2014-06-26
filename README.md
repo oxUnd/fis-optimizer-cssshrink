@@ -10,7 +10,7 @@ fis-optimizer-cssshrink
     ```
 + Windows
 
-Open a cmd.
+    Open a cmd.
 
     ```
     npm install -g fis-optimizer-cssshrink
